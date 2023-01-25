@@ -11,6 +11,3 @@ My name is Dominic Pham and I'm currently studying Computer Science at Conestoga
 
 ### Software:
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/71042283/213842906-fc9be7ec-3569-4cc0-8fcf-1348b31b4341.png" alt="aseprite" width="40" height="40"/> </a> </p>
-
-* Unity (currently learning)
-* Blender (currently learning)
