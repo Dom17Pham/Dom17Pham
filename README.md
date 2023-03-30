@@ -1,5 +1,5 @@
 # Hello 👋
-Hi, My name is Dominic Pham. As a computer science student with a passion for game development and design, AI, and pixel art, you'll find my projects here that showcase my skills and interests. I am constantly exploring the intersection between these fields, pushing the boundaries of what's possible in game development with AI-powered game mechanics and stunning pixel art assets. Currently, I am actively seeking a Spring co-op for 2023 to further expand my knowledge and skills in these areas. Feel free to explore my projects and reach out if you'd like to collaborate or have any questions!
+Hi, My name is Dominic Pham. As a computer science student with a passion for game development and design, AI, and pixel art, you'll find my projects here that showcase my skills and interests. I am constantly exploring the intersection between these fields, pushing the boundaries of what's possible in game development with AI-powered game mechanics and stunning pixel art assets. Feel free to explore my projects and reach out if you'd like to collaborate or have any questions!
 
 ## Interests:
 * Game development and design :video_game: 
