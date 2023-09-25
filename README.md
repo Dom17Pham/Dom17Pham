@@ -2,9 +2,15 @@
   <img src="https://github.com/Dom17Pham/Dom17Pham/assets/71042283/00131966-465e-45bb-a22f-1012160130ce" width="200"/>
 </div>
 
-# Hi, I'm Dominic 
-I am a computer science student who loves learning about game development, AI, and machine learning. <br>
-Aside from programming, I make pixel art and love listening to podcasts about the gaming industry.<br>
+# Hi!
+<p> My name is Dominic, 
+I am a Computer Science student who wants to be a game developer! <br>
+I want to join the game development industry to develop and work on games that I hope will create memorable experiences. </p>
+
+Some interests and hobbies I have are: 
+* pixel art
+* PC building
+* keyboards 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phamdominic/)](http://www.linkedin.com/in/phamdominic)
 
