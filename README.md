@@ -1,13 +1,17 @@
-# Hi! My name is Dominic [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phamdominic/)](http://www.linkedin.com/in/phamdominic)
+# Hi! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phamdominic/)](http://www.linkedin.com/in/phamdominic)
 
 <p>
-I am a Computer Science student who strives to become a game developer! <br>
-I want to join the game development industry to develop and work on game projects that I hope will create memorable experiences for players. </p>
+Hello, I'm Dominic. I am a computer science major, tech nerd, and avid gamer. <br>
+I believe that we can apply both our logical and creative thinking in software development.<br>
+Programming, to me, is more than just a skill—it's a personalized expression of creativity and character.<br> 
+I strive to practice this in my own development to find the intersections of technology and art.<br>
+</p>
 
 Some interests and hobbies I have are: 
-* pixel art
-* PC building
-* keyboards
+* Game Development 
+* Pixel Art
+* PC Building
+* Mechanical Keyboards
 
 ## My Experience 
 <div>
