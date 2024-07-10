@@ -2,12 +2,14 @@
 
 <p>
 Hello, I'm Dominic. I am a computer science major, tech nerd, and avid gamer. <br>
-I believe that we can apply both our logical and creative thinking in software development.<br>
-Programming, to me, is more than just a skill—it's a personalized expression of creativity and character.<br> 
-I strive to practice this in my own development to find the intersections of technology and art.<br>
+Software development, to me, is more than just a skill—it's a personalized expression of creativity and character, where
+we can apply both our logical and creative thinking.
+I'm passionate about continuously learning and excited to see what new advancements technology brings, always striving to refine my craft.<br>
 </p>
 
 Some interests and hobbies I have are: 
+* Data Science
+* AI and Machine Learning
 * Game Development 
 * Pixel Art
 * PC Building
@@ -16,7 +18,7 @@ Some interests and hobbies I have are:
 ## My Experience 
 <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,python,scala,git,azure,visualstudio,vscode,docker,mysql,unity,blender,linux&perline=18" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,tensorflow,js,html,css,django,scala,git,azure,visualstudio,vscode,docker,mysql,mongodb,unity,blender,windows,linux&perline=18" />
     </a>
 </div>
 
